@@ -1,4 +1,4 @@
-For Web Development, this repository has:
+A Repo For Web Development, this repository has:
     >> HTML
     >>JavaScript
     >>CSS
