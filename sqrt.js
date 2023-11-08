@@ -1,4 +1,4 @@
-let x = 17;
+let x = 2;
 let sqrt_found = false;
 let approx_guess = 0;
 
